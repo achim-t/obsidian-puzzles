@@ -3,6 +3,9 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
+  /* Make filetree wider (1.5x) */
+  --dg-filetree-width: 375px;
+  --dg-filetree-min-width: 375px;
     //  background-color: white;
     //  .content {
     //   font-size: 14px;
