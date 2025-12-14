@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/achims-puzzles/puzzles/colored-pencils/","tags":["puzzle"]}
+{"dg-publish":true,"dg-path":"Colored Pencils.md","permalink":"/colored-pencils/","tags":["puzzle"],"noteIcon":"✅"}
 ---
 
 ![Colored-Pencils_6.jpg](/img/user/Achims%20Puzzles/Puzzles/attachments/Colored-Pencils_6.jpg)

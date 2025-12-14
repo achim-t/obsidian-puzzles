@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/achims-puzzles/puzzles/black-box-kunst-2023/","tags":["puzzle"]}
+{"dg-publish":true,"dg-path":"Black Box Kunst (2023).md","permalink":"/black-box-kunst-2023/","tags":["puzzle"],"noteIcon":"✅"}
 ---
 
 # Box

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/achims-puzzles/puzzles/avengers/","tags":["puzzle"]}
+{"dg-publish":true,"dg-path":"Avengers.md","permalink":"/avengers/","tags":["puzzle"],"noteIcon":"✅"}
 ---
 
 ![20240922_132219.jpg](/img/user/Achims%20Puzzles/Puzzles/attachments/20240922_132219.jpg)

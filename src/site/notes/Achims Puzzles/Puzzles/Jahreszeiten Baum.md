@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/achims-puzzles/puzzles/jahreszeiten-baum/","tags":["puzzle"]}
+{"dg-publish":true,"dg-path":"Jahreszeiten Baum.md","permalink":"/jahreszeiten-baum/","tags":["puzzle"],"noteIcon":"✅"}
 ---
 
 ![71TYJmiv5BL._AC_SL1500_.jpg](/img/user/Achims%20Puzzles/Puzzles/attachments/71TYJmiv5BL._AC_SL1500_.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/achims-puzzles/puzzles/pfau/","tags":["puzzle"]}
+{"dg-publish":true,"dg-path":"Pfau.md","permalink":"/pfau/","tags":["puzzle"],"noteIcon":"✅"}
 ---
 
 ![Adobe_Scan_01_Jul_2025_1_(1).jpg](/img/user/Achims%20Puzzles/Puzzles/attachments/Adobe_Scan_01_Jul_2025_1_(1).jpg)

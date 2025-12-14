@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/achims-puzzles/puzzles/elefant-holz/","tags":["puzzle"]}
+{"dg-publish":true,"dg-path":"Elefant (Holz).md","permalink":"/elefant-holz/","tags":["puzzle"],"noteIcon":"✅"}
 ---
 
 ![Adobe_Scan_25_Dec_2024_1_(3).jpg](/img/user/Achims%20Puzzles/Puzzles/attachments/Adobe_Scan_25_Dec_2024_1_(3).jpg)

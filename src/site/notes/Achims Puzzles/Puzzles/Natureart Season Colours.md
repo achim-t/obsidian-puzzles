@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/achims-puzzles/puzzles/natureart-season-colours/","tags":["puzzle"]}
+{"dg-publish":true,"dg-path":"Natureart Season Colours.md","permalink":"/natureart-season-colours/","tags":["puzzle"],"noteIcon":"✅"}
 ---
 
 ![s-l1600 2.webp|s-l1600 2.webp](/img/user/Achims%20Puzzles/Puzzles/attachments/s-l1600%202.webp)

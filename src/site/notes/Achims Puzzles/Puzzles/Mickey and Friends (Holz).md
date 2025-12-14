@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/achims-puzzles/puzzles/mickey-and-friends-holz/","tags":["puzzle"]}
+{"dg-publish":true,"dg-path":"Mickey and Friends (Holz).md","permalink":"/mickey-and-friends-holz/","tags":["puzzle"],"noteIcon":"✅"}
 ---
 
 ![Adobe_Scan_30_Dec_2024_1_(1).jpg](/img/user/Achims%20Puzzles/Puzzles/attachments/Adobe_Scan_30_Dec_2024_1_(1).jpg)

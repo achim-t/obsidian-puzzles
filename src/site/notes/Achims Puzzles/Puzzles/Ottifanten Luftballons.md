@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/achims-puzzles/puzzles/ottifanten-luftballons/","tags":["puzzle"]}
+{"dg-publish":true,"dg-path":"Ottifanten Luftballons.md","permalink":"/ottifanten-luftballons/","tags":["puzzle"],"noteIcon":"✅"}
 ---
 
 ![Puzzle1G9wB1VQXjkRYh.webp](/img/user/Achims%20Puzzles/Puzzles/attachments/Puzzle1G9wB1VQXjkRYh.webp)

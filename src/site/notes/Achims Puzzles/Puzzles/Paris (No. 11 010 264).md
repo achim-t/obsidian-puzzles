@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/achims-puzzles/puzzles/paris-no-11-010-264/","tags":["puzzle"]}
+{"dg-publish":true,"dg-path":"Paris (No. 11 010 264).md","permalink":"/paris-no-11-010-264/","tags":["puzzle"],"noteIcon":"✅"}
 ---
 
 ![Adobe_Scan_09_Apr_2025_1_(1).jpg](/img/user/Achims%20Puzzles/Puzzles/attachments/Adobe_Scan_09_Apr_2025_1_(1).jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/achims-puzzles/puzzles/fahrraeder-in-amsterdam/","tags":["puzzle"]}
+{"dg-publish":true,"dg-path":"Fahrräder in Amsterdam.md","permalink":"/fahrraeder-in-amsterdam/","tags":["puzzle"],"noteIcon":"✅"}
 ---
 
 # Box
