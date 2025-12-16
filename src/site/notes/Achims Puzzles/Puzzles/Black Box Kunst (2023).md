@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Black Box Kunst (2023).md","permalink":"/black-box-kunst-2023/","tags":["puzzle"],"noteIcon":"✅"}
+{"dg-publish":true,"dg-path":"Black Box Kunst (2023).md","permalink":"/black-box-kunst-2023/","tags":["puzzle"],"noteIcon":"✅","created":"2025-10-20T09:59:42.799+02:00"}
 ---
 
 # Box

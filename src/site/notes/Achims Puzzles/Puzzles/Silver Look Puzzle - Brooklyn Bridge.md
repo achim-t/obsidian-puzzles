@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Silver Look Puzzle - Brooklyn Bridge.md","permalink":"/silver-look-puzzle-brooklyn-bridge/","tags":["puzzle"],"noteIcon":"✅"}
+{"dg-publish":true,"dg-path":"Silver Look Puzzle - Brooklyn Bridge.md","permalink":"/silver-look-puzzle-brooklyn-bridge/","tags":["puzzle"],"noteIcon":"✅","created":"2025-10-20T09:59:41.531+02:00"}
 ---
 
 ![s-l1600.webp](/img/user/Achims%20Puzzles/Puzzles/attachments/s-l1600.webp)

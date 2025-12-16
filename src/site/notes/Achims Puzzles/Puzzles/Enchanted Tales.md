@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Enchanted Tales.md","permalink":"/enchanted-tales/","tags":["puzzle"],"noteIcon":"✅"}
+{"dg-publish":true,"dg-path":"Enchanted Tales.md","permalink":"/enchanted-tales/","tags":["puzzle"],"noteIcon":"✅","created":"2025-12-14T02:04:58.916+01:00"}
 ---
 
 
