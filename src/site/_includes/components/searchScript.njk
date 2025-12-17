@@ -439,7 +439,7 @@
         const searchResults = isTagSearch
             ? index.search(searchQuery.substring(1), [{ field: "tags" }])
             : index.search(searchQuery, [
-                { field: "title", limit: 5 },
+                { field: "title", limit: 10 },
                 { field: "content", limit: 10 }
             ]);
 
